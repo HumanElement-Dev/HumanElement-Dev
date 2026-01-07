@@ -1,16 +1,40 @@
-## Hi there 👋
+# HumanElement.Dev
 
-<!--
-**HumanElement-Dev/HumanElement-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Systems, craft, and orchestration across domains.**
 
-Here are some ideas to get you started:
+This GitHub is a public lab for:
+- software
+- infrastructure
+- energy
+- food systems
+- physical making
+- AI-assisted workflows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The goal is not polish — it's *process*.
+
+---
+
+## What I'm Building (Now)
+
+- 🧠 A cross-domain operating curriculum
+- 🍞 A micro-bakery as a systems problem
+- ⚡ Solar + infrastructure resilience
+- 🤖 AI agents as collaborators, not magic
+- 🛠️ Repeatable ops for small teams
+
+---
+
+## How I Work
+
+- I document decisions
+- I ship experiments
+- I show failures
+- I iterate in public
+
+---
+
+## Where to Start
+
+- `wildewoods-curriculum`
+- `lifeos`
+- `experiments`
