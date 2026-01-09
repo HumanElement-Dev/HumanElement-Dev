@@ -1,9 +1,9 @@
 # HumanElement.Dev
 
-**Systems, craft, and orchestration across domains.**
+**Systems, craft, orchestration and coherence across domains.**
 
 This GitHub is a public lab for:
-- software
+- software/code
 - infrastructure
 - energy
 - food systems
@@ -35,6 +35,6 @@ The goal is not polish — it's *process*.
 
 ## Where to Start
 
-- `wildewoods-curriculum`
+- humanelement.agency
 - `lifeos`
 - `experiments`
