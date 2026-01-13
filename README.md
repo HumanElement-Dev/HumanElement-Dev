@@ -35,6 +35,7 @@ The goal is not polish — it's *process*.
 
 ## Where to Start
 
-- humanelement.agency
+- [[HUMANELEMENT] digital + creative agency](https://humanelement.agency)
+- [Get Stack](https://gtstk.dev)
 - `lifeos`
 - `experiments`
