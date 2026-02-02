@@ -1,5 +1,13 @@
 # HumanElement.Dev
 
+## Repository Structure
+This repo is organized as a living lab. Each folder is active, incomplete, and evolving.
+- /decisions → documented tradeoffs & thinking
+- /experiments → short-lived tests and prototypes
+- /ops → repeatable processes
+- /curriculum → cross-domain learning tracks
+- /agents → AI collaborators & workflows
+
 **Systems, craft, orchestration and coherence across domains.**
 
 This GitHub is a public lab for:
