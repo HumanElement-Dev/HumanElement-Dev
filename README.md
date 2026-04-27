@@ -42,12 +42,12 @@ This is the lab.
 
 [humanelement.agency](https://humanelement.agency)  
 
-```HUMANELEMENT.DEV/
-├── /decisions     → documented tradeoffs & thinking
-├── /experiments   → short-lived tests and prototypes
-├── /ops           → repeatable processes
-├── /curriculum    → cross-domain learning tracks
-└── /agents        → AI collaborators & workflows```
+HUMANELEMENT.DEV/   
+├── /decisions     → documented tradeoffs & thinking  
+├── /experiments   → short-lived tests and prototypes  
+├── /ops           → repeatable processes  
+├── /curriculum    → cross-domain learning tracks  
+└── /agents        → AI collaborators & workflows  
 
 
 ---
