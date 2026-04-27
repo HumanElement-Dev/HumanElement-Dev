@@ -19,29 +19,7 @@ This is the lab.
 
 ---
 
-## `[ Repository Structure ]`## 
-This repo is organized as a living lab. Each folder is active, incomplete, and evolving.
-- /decisions → documented tradeoffs & thinking
-- /experiments → short-lived tests and prototypes
-- /ops → repeatable processes
-- /curriculum → cross-domain learning tracks
-- /agents → AI collaborators & workflows
-
-**Systems, craft, orchestration and coherence across domains.**
-
-This GitHub is a public lab for:
-- software/code
-- infrastructure
-- energy
-- food systems
-- physical making
-- AI-assisted workflows
-
-The goal is not polish — it's *process*.
-
----
-
-## What I'm Building (Now)
+## `[ WHAT WE'RE BUILDING ]`
 
 - 🧠 A cross-domain operating curriculum
 - 🍞 A micro-bakery as a systems problem
@@ -51,24 +29,25 @@ The goal is not polish — it's *process*.
 
 ---
 
-## How I Work
+## `[ HOW WE WORK ]`
 
-- I document decisions
-- I ship experiments
-- I show failures
-- I iterate in public
+- Document the decision, not just the code
+- Ship the experiment, show the failure
+- Iterate in public
+- Process over polish
 
 ---
 
-## `[ WHERE_TO_START ]`
+## `[ WHERE TO START ]`
 
-[[HUMANELEMENT] digital + creative agency](https://humanelement.agency)
-├── /decisions     → documented tradeoffs & thinking  
-├── /experiments   → short-lived tests and prototypes  
-├── /ops           → repeatable processes  
-├── /curriculum    → cross-domain learning tracks  
-├── / Labs         → [Get Stack](https://gtstk.dev)  
-└── /agents        → AI collaborators & workflows  
+[humanelement.agency](https://humanelement.agency)  
+
+```HUMANELEMENT.DEV/
+├── /decisions     → documented tradeoffs & thinking
+├── /experiments   → short-lived tests and prototypes
+├── /ops           → repeatable processes
+├── /curriculum    → cross-domain learning tracks
+└── /agents        → AI collaborators & workflows```
 
 
 ---
